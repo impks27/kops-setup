@@ -23,3 +23,5 @@ Host default
   IdentityFile E:/Playground/machines/ubuntu-box/.vagrant/machines/default/virtualbox/private_key
   IdentitiesOnly yes
   LogLevel FATAL
+
+
