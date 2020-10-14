@@ -26,3 +26,5 @@ Host default
 
 
 https://timesofcloud.com/k8s/demo-preparing-kops-install/
+
+https://www.youtube.com/watch?v=YwNlzpreqmw
