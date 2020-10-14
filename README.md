@@ -25,3 +25,4 @@ Host default
   LogLevel FATAL
 
 
+https://timesofcloud.com/k8s/demo-preparing-kops-install/
